@@ -154,7 +154,7 @@ function App() {
             <div className="flex flex-col items-center">
               <img src={Boy} className="h-12 w-10" alt="Aman Singh img" />
               <h2 className="font-bold">{player1.name}</h2>
-              <h3 className="text-4xl">{player2.score}</h3>
+              <h3 className="text-4xl">{player1.score}</h3>
             </div>
           </div>
           {/* Dice and button */}
