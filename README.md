@@ -1,9 +1,14 @@
-# Getting Started with Create React App
+# Lodu Race Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My Ludo race game is a web-based game built using React, TypeScript, and Tailwind CSS that offers a thrilling head-to-head race between two players. The goal of the game is to be the first player to complete a 50-step journey from start to finish. The game features an intuitive user interface that allows players to roll the dice and move their pieces along the board. The game's logic is designed to be simple yet engaging, providing players with a fast-paced and entertaining gameplay experience. 
+
+## Screenshots of the Game
+
+
 
 ## Available Scripts
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 In the project directory, you can run:
 
 ### `npm start`
