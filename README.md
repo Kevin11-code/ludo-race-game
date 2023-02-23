@@ -1,12 +1,18 @@
 # Lodu Race Game
-
+<p>
 My Ludo race game is a web-based game built using React, TypeScript, and Tailwind CSS that offers a thrilling head-to-head race between two players. The goal of the game is to be the first player to complete a 50-step journey from start to finish. The game features an intuitive user interface that allows players to roll the dice and move their pieces along the board. The game's logic is designed to be simple yet engaging, providing players with a fast-paced and entertaining gameplay experience.
+</p>
+<br>
 
 ## Screenshots of the Game
 
+<br>
 <img src="src/images/ss1.png"/>
+<br>
 <img src="src/images/ss2.png"/>
+<br>
 <img src="src/images/ss3.png"/>
+<br>
 
 ## Available Scripts
 
